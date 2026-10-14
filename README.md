@@ -22,6 +22,6 @@ Framework preset: `None`. Build command: vazio. Build output directory: `public`
 
 ## Identificação (preencha após o fork)
 
-Nome: 
-RA: 
-URL: https://
+Nome: Gustavo Henrique Igerski das Neves
+RA: 2026108594
+URL: https://gustavo-desenho-assinado.pages.dev
